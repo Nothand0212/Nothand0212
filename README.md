@@ -1,6 +1,6 @@
 ### 菜鸡SLAMer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nothand0212&show_icons=true&theme=radical)
-![](gif\1.gif)
+![](gif/1.gif)
 <!-- <img src="gif\1.gif" align=right height="60%"/> -->
 
 <div id="img" align=center>
@@ -15,6 +15,6 @@
 
 </div>
 
-![头像](image\1.jpg)
+![头像](image/1.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Nothand0212/count.svg)
