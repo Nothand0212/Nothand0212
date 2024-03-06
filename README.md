@@ -21,10 +21,15 @@
 
 - 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🔧 &#160; ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![G2O](https://img.shields.io/badge/-G2O-525252?style=flat)
 ![GTSAM](https://img.shields.io/badge/-GTSAM-525252?style=flat)
+- 🛢 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
 
 ### ⭐️ 开源项目 | Open Source Projects
 
