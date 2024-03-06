@@ -1,6 +1,7 @@
 ## 菜鸡SLAMer
 
 [![Mail Badge](https://img.shields.io/badge/-linzeshi@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:linzeshi@foxmail.com)](mailto:linzeshi@foxmail.com)
+[![B站](https://img.shields.io/badge/BiLiBiLi-%E5%AD%A6%E4%B9%9C%E9%87%8E-yellow)](https://space.bilibili.com/22863858?spm_id_from=333.788.0.0)
 ---
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nothand0212&show_icons=true&theme=radical" />
@@ -32,8 +33,6 @@
 - [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
 
 <div id="img" align=center>
-
-[![B站](https://img.shields.io/badge/BiLiBiLi-%E5%AD%A6%E4%B9%9C%E9%87%8E-yellow)](https://space.bilibili.com/22863858?spm_id_from=333.788.0.0)
 
 
 ### 👋 关于我 | About Me
