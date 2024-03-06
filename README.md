@@ -6,7 +6,11 @@
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nothand0212&show_icons=true&theme=radical" />
 
-### I'm Zeshi Lin
+### 👋 关于我 | About Zeshi Lin
+
+![](https://img.shields.io/badge/喜欢-学习-red)
+![](https://img.shields.io/badge/性格-开朗-green)
+![](https://img.shields.io/badge/爱好-二次元-blue)
 
 - A SLAMer who loves programming and robotics. & Open Source enthusiast.
 - 🌱 Currently working in Guangzhou, China.
@@ -22,7 +26,6 @@
 ![G2O](https://img.shields.io/badge/-G2O-525252?style=flat)
 ![GTSAM](https://img.shields.io/badge/-GTSAM-525252?style=flat)
 
-
 ### ⭐️ 开源项目 | Open Source Projects
 
 - ![ONNX-CPP-RUNNER](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)：基于ONNX API 的SuperPoint和LightGlue的C++推理部署项目。
@@ -34,12 +37,5 @@
 - [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
 
 
-### 👋 关于我 | About Me
-
-![](https://img.shields.io/badge/喜欢-学习-red)
-![](https://img.shields.io/badge/性格-开朗-green)
-![](https://img.shields.io/badge/爱好-二次元-blue)
-
-</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/Nothand0212/count.svg)
