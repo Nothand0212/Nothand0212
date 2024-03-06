@@ -28,12 +28,13 @@
 
 ### ⭐️ 开源项目 | Open Source Projects
 
-- ![ONNX-CPP-RUNNER](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)：Based on ONNX API and LightGlue, a C++ inference deployment project for SuperPoint and LightGlue.(基于ONNX API 的SuperPoint和LightGlue的C++推理部署项目。)
+- ![ONNX-CPP-RUNNER](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)：Based on ONNX API and LightGlue, a C++ inference deployment project for SuperPoint and LightGlue.
 - ![l-vio](https://github.com/Nothand0212/lvio)：Front-end of this vio algorithm is based on ORB-feature and optical flow, but IMU preintegration is not integrated yet. The backend is based on g2o.
 - ![super-vio](https://github.com/Nothand0212/super-vio)：Front-end of this vio algorithm is based on SuperPoint and LightGlue. Backend is based on GTSAM, IMU preintegration is also implementing with GTSAM.
 
 ### 📹 项目效果 | Project Demo
 
 - [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Nothand0212/count.svg)
