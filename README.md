@@ -33,11 +33,9 @@
 ### ⭐️ 开源项目 | Open Source Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nothand0212&repo=LightGlue-OnnxRunner-cpp)](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nothand0212&repo=lvio)](https://github.com/Nothand0212/lvio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nothand0212&repo=super-vio)](https://github.com/Nothand0212/super-vio)
 
 - ![ONNX-CPP-RUNNER](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)：Based on ONNX API and LightGlue, a C++ inference deployment project for SuperPoint and LightGlue.
-- ![l-vio](https://github.com/Nothand0212/lvio)：Front-end of this vio algorithm is based on ORB-feature and optical flow, but IMU preintegration is not integrated yet. The backend is based on g2o.
 - ![super-vio](https://github.com/Nothand0212/super-vio)：Front-end of this vio algorithm is based on SuperPoint and LightGlue. Backend is based on GTSAM, IMU preintegration is also implementing with GTSAM.
 
 ### 📹 项目效果 | Project Demo
@@ -54,6 +52,7 @@
 - 基于ORB-SLAM3的VR定位算法，前端匹配改为用光流法，提高算法在移动端的实时性。
 - 基于Cartographer的2D激光SLAM算法，剔除ROS依赖，改用共享内存通信；修改IMU数据的利用方式，改为IMU预积分，提高算法鲁棒性。
 - 基于LIO-SAM的3D激光SLAM算法，添加了重力因子和iVoX数据结构的支持，提高算法在高动态场景下的鲁棒性以及降低计算量。
+- 水面点云分割
 - 基于PP-PicoDet检测移动库位以及PP-TinyPose检测关键点的定位算法，为机器在入库阶段提供更精准的定位。
 - 无人采水船的整体算法代码架构，主要负责基于摄像头的目标检测和深度估计，基于毫秒波雷达以及超声波的障碍物感知，以及栅格地图的更新。
 
