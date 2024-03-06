@@ -46,7 +46,8 @@
 - [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
 
 
-<div style="text-align: right;">
-    ![Visitor Count](https://profile-counter.glitch.me/Nothand0212/count.svg)
+<div align="right">
+    <img src="https://profile-counter.glitch.me/Nothand0212/count.svg">
 </div>
+
 
