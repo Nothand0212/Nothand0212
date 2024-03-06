@@ -30,12 +30,12 @@
 - ![super-vio](https://github.com/Nothand0212/super-vio)：基于SuperPoint和LightGlue的vio-slam算法，还没有完成。目标是以SuperPoint和LightGlue作为前端的主要实现，而后端用GTSAM作为优化。此外，IMU预积分也通过GTSAM的实现。
 
 ### 📝 项目效果 | Project Demo
-- [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
 
-<div id="img" align=center>
+- [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
 
 
 ### 👋 关于我 | About Me
+
 ![](https://img.shields.io/badge/喜欢-学习-red)
 ![](https://img.shields.io/badge/性格-开朗-green)
 ![](https://img.shields.io/badge/爱好-二次元-blue)
