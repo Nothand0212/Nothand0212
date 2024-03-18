@@ -1,51 +1,61 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+## 👋 你好，我是 **林泽世**
+
+[![Mail Badge](https://img.shields.io/badge/-linzeshi@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:linzeshi@foxmail.com)](mailto:linzeshi@foxmail.com)
+[![B站](https://img.shields.io/badge/BiLiBiLi-%E5%AD%A6%E4%B9%9C%E9%87%8E-yellow)](https://space.bilibili.com/22863858?spm_id_from=333.788.0.0)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+<!-- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nothand0212&show_icons=true&theme=radical" /> -->
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+### 👋 关于我 | About Zeshi Lin
+
+![](https://img.shields.io/badge/喜欢-学习-red)
+![](https://img.shields.io/badge/性格-开朗-green)
+![](https://img.shields.io/badge/爱好-二次元-blue)
+
+- A SLAMer who loves programming and robotics. & Open Source enthusiast.
+- 🌱 Currently working in Guangzhou, China.
+- 💬 Cheat me about SLAM and my projects on [linzeshi@foxmail.com](mailto:linzeshi@foxmail.com)
+- ⚡ Fun fact: Algorhythms related with perception.
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- 🔧 &#160; ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+![G2O](https://img.shields.io/badge/-G2O-525252?style=flat)
+![GTSAM](https://img.shields.io/badge/-GTSAM-525252?style=flat)
+- 🛢 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+### ⭐️ 开源项目 | Open Source Projects
 
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nothand0212&repo=LightGlue-OnnxRunner-cpp)](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nothand0212&repo=super-vio)](https://github.com/Nothand0212/super-vio)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+- ![ONNX-CPP-RUNNER](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)：Based on ONNX API and LightGlue, a C++ inference deployment project for SuperPoint and LightGlue.
+- ![super-vio](https://github.com/Nothand0212/super-vio)：Front-end of this vio algorithm is based on SuperPoint and LightGlue. Backend is based on GTSAM, IMU preintegration is also implementing with GTSAM.
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+### 📹 项目效果 | Project Demo
+
+- [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
+
+### 📝 最近动态 | Recent Updates
+
+- Implmenting the super-vio project.
+- Reconstructing the l-vio project with ROS to visualize the results.
+
+### 📫 工作历史 | Work Experience
+
+- 基于ORB-SLAM3的VR定位算法，前端匹配改为用光流法，提高算法在移动端的实时性。
+- 基于Cartographer的2D激光SLAM算法，剔除ROS依赖，改用共享内存通信；修改IMU数据的利用方式，改为IMU预积分，提高算法鲁棒性。
+- 基于LIO-SAM的3D激光SLAM算法，添加了重力因子和iVoX数据结构的支持，提高算法在高动态场景下的鲁棒性以及降低计算量。
+- 水面点云分割
+- 基于PP-PicoDet检测移动库位以及PP-TinyPose检测关键点的定位算法，为机器在入库阶段提供更精准的定位。
+- 无人采水船的整体算法代码架构，主要负责基于摄像头的目标检测和深度估计，基于毫秒波雷达以及超声波的障碍物感知，以及栅格地图的更新。
+
+<div align="right">
+    <img src="https://profile-counter.glitch.me/Nothand0212/count.svg">
+</div>
