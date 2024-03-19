@@ -47,25 +47,28 @@
     <img src=image/lio-sam-ig.jpeg height="320">
 </div>
 
-
-
 - [LK-VIO在kitti-00数据集上的效果](https://b23.tv/xFHpiMm)
 <div align="center">
     <img src=image/lk-vio-kitti00.jpeg height="320">
+</div>
+
+- [LightGlue-OnnxRunner-cpp在kitti-00数据集上的效果](https://b23.tv/6eXpUU1)
+<div align="center">
+    <img src=image/superpoint-lightglue.jpeg height="320">
 </div>
 
 
 ### 📝 最近动态 | Recent Updates
 
 - Implmenting the super-vio project.
-- Reconstructing the l-vio project with ROS to visualize the results.
+- Reconstructing the lk-vio project with ROS to visualize the results. Integrating with g2o for IMU preintegration.
 
 ### 📫 工作历史 | Work Experience
 
 - 基于ORB-SLAM3的VR定位算法，前端匹配改为用光流法，提高算法在移动端的实时性。
 - 基于Cartographer的2D激光SLAM算法，剔除ROS依赖，改用共享内存通信；修改IMU数据的利用方式，改为IMU预积分，提高算法鲁棒性。
 - 基于LIO-SAM的3D激光SLAM算法，添加了重力因子和iVoX数据结构的支持，提高算法在高动态场景下的鲁棒性以及降低计算量。
-- 水面点云分割
+- 基于3D激光点云的水面点云分割
 - 基于PP-PicoDet检测移动库位以及PP-TinyPose检测关键点的定位算法，为机器在入库阶段提供更精准的定位。
 - 无人采水船的整体算法代码架构，主要负责基于摄像头的目标检测和深度估计，基于毫秒波雷达以及超声波的障碍物感知，以及栅格地图的更新。
 
