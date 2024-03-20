@@ -44,17 +44,17 @@
 
 - [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
 <div align="center">
-    <img src=image/lio-sam-ig.jpeg height="320">
+    <img src=gif/lio-sam-ig.gif height="320">
 </div>
 
 - [LK-VIO在kitti-00数据集上的效果](https://b23.tv/xFHpiMm)
 <div align="center">
-    <img src=image/lk-vio-kitti00.jpeg height="320">
+    <img src=gif/kitti-00-VO.gif height="320">
 </div>
 
 - [LightGlue-OnnxRunner-cpp在kitti-00数据集上的效果](https://b23.tv/6eXpUU1)
 <div align="center">
-    <img src=image/superpoint-lightglue.jpeg height="320">
+    <img src=gif/superpoint-lightglue.gif height="320">
 </div>
 
 
