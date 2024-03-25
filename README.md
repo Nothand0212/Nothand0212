@@ -22,6 +22,7 @@
 - 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=cmake)
 - 🔧 &#160; ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![G2O](https://img.shields.io/badge/-G2O-525252?style=flat)
@@ -36,23 +37,23 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nothand0212&repo=super-vio)](https://github.com/Nothand0212/super-vio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nothand0212&repo=lk-vio)](https://github.com/Nothand0212/lk-vio)
 
-- ![ONNX-CPP-RUNNER](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)：Based on ONNX API and LightGlue, a C++ inference deployment project for SuperPoint and LightGlue.
-- ![super-vio](https://github.com/Nothand0212/super-vio)：Front-end of this vio algorithm is based on SuperPoint and LightGlue. Backend is based on GTSAM, IMU preintegration is also implementing with GTSAM.
-- ![lk-vio](https://github.com/Nothand0212/lk-vio)：Front-end of this vio algorithm is based on ORB dand LK Optical Flow. Backend is based on g20.
+- [ONNX-CPP-RUNNER](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp)：Based on ONNX API and LightGlue, a C++ inference deployment project for SuperPoint and LightGlue.
+- [super-vio](https://github.com/Nothand0212/super-vio)：Front-end of this vio algorithm is based on SuperPoint and LightGlue. Backend is based on GTSAM, IMU preintegration is also implementing with GTSAM.
+- [lk-vio](https://github.com/Nothand0212/lk-vio)：Front-end of this vio algorithm is based on ORB dand LK Optical Flow. Backend is based on g20.
 
 ### 📹 项目效果 | Project Demo
 
-- [基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。]( https://b23.tv/JmDgPUv)
+- 基于LIO-SAM的高动态场景SLAM，添加了重力因子和iVoX数据结构的支持。视频为在水上行驶的建图过程。 [Video on Bilibili]( https://b23.tv/JmDgPUv)
 <div align="center">
     <img src=gif/lio-sam-ig.gif height="320">
 </div>
 
-- [LK-VIO在kitti-00数据集上的效果](https://b23.tv/xFHpiMm)
+- LK-VIO在kitti-00数据集上的效果。 [Video on Bilibili](https://b23.tv/xFHpiMm)
 <div align="center">
     <img src=gif/kitti-00-VO.gif height="320">
 </div>
 
-- [LightGlue-OnnxRunner-cpp在kitti-00数据集上的效果](https://b23.tv/6eXpUU1)
+- LightGlue-OnnxRunner-cpp在kitti-00数据集上的效果。 [Video on Bilibili](https://b23.tv/6eXpUU1)
 <div align="center">
     <img src=gif/superpoint-lightglue.gif height="320">
 </div>
